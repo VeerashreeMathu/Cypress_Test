@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "cypress": "^14.0.0",
+    "cypress-iframe": "^1.0.1",
+    "cypress-real-events": "^1.14.0"
+  },
+  "scripts": {
+    "cypress:open": "cypress open",
+    "test": "cypress run --record --key <your-project-record-key>"
+  }
+}

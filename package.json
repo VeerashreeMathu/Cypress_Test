@@ -6,6 +6,6 @@
   },
   "scripts": {
     "cypress:open": "cypress open",
-    "test": "cypress run --record --key <your-project-record-key>"
+    "test": "cypress run --record --key <ff0bc844-75e0-4073-a7a9-b012684bf8bb>"
   }
 }
